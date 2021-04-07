@@ -24,6 +24,8 @@ items:
  - HSEIreland/covid-tracker-app
  - nic-delhi/AarogyaSetu_Android
  - govCMS/govCMS
+ - MohGovIL/hamagen-react-native
+ - CIOIL/DataGovIL
 display_name: Government apps
 created_by: jbjonesjr
 image: government.png
